@@ -1,0 +1,138 @@
+A {
+	color: #00c2ff;
+	font-family: 'Open Sans Condensed';
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+#wrapper {
+	position: relative;
+}
+
+#NewYork {
+
+}
+
+.site-header {
+    margin-top: 0;
+	text-align: center;
+}
+
+#rick-rolled {
+	padding-bottom: 3px;
+	border-bottom: 3px solid #00c2ff;
+}
+
+#rick-rolled-2 {
+	padding-bottom: 3px;
+	border-bottom: 3px solid #00c2ff;
+}
+
+.site-header h4 {
+	width: 50%;
+	margin: 0 auto;
+	padding: 1% 0;
+}
+
+.header-text {
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+
+#main-content {
+	height: 900px;
+	margin: 10px 0;
+}
+
+
+#left {
+	width: 45%;
+	position: absolute;
+	left: 0;
+	text-align: center;
+}
+
+#left p {
+	width: 50%;
+	margin-left: 25%;
+}
+
+#left ol li {
+	width: 40%;
+	margin-left: 25%;
+}
+
+#right {
+	width: 45%;
+	position: absolute;
+	right: 0;  
+	text-align: center;
+}
+
+#right p {
+	width: 50%;
+	margin-left: 25%;
+}
+
+#right ul li {
+	width: 40%;
+	margin-left: 25%;
+}
+
+.left-image {
+	border-radius: 27px 27px 27px 27px;
+-moz-border-radius: 27px 27px 27px 27px;
+-webkit-border-radius: 30px 0px 0px 0px;
+border: 0px solid #000000;
+margin-top: 5%;
+}
+
+.right-image {
+	border-radius: 27px 27px 27px 27px;
+-moz-border-radius: 27px 27px 27px 27px;
+-webkit-border-radius: 30px 0px 0px 0px;
+border: 0px solid #000000;
+margin-top: 5%;
+}
+
+.image {
+	border-radius: 27px 27px 27px 27px;
+-moz-border-radius: 27px 27px 27px 27px;
+-webkit-border-radius: 27px 27px 27px 27px;
+border: 0px solid #000000;
+}
+
+#main-image {
+	width: 850px;
+	margin: 0 auto;
+}
+
+
+.image {
+	border-radius: 27px 27px 27px 27px;
+-moz-border-radius: 27px 27px 27px 27px;
+-webkit-border-radius: 27px 27px 27px 27px;
+border: 0px solid #000000;
+
+}
+
+.bottomclass {
+    font-size: 20px;
+}
+
+.bottomletters {
+    color: black;
+}
+
+.clear {
+	clear: both;
+}
+
+.site-footer {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+	margin-top: 3%;
+}
